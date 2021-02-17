@@ -1,0 +1,23 @@
+    {
+    "id": "1",
+    "name": "David",
+    "email": "Penny@yopmail.com",
+    "password": "abc123"
+    },
+    {
+    "id": "2",
+    "name": "Jose",
+    "email": "Perez@yopmail.com",
+    "password": "abc123"
+     },
+    {
+    "id": "3",
+    "name": "Miguel",
+    "email": "Visentini@yopmail.com",
+    "password": "abc123"
+    }
+    {"id":4,
+        "name":"joselito",
+        "email":"joselito@yopmail.com",
+        "passwordHash":"$2a$12$F2jal.I6Yw/QQbdT848TvuVzwWSHyqndEW5Ekf9yM3TfFYm9E1WuW"
+    }{"id":5,"name":"joselito","email":"joselito2@yopmail.com","passwordHash":"$2a$12$kxYNoRlcswdNEbkDq6Hi0O/h.fAuKLqo.fIho0jaVvOc3.43OTD/C"}{"id":6,"name":"davidwpen","email":"davidwpen@gmail.com","passwordHash":"$2a$12$Zt4IvwaCvasUDUimL/SVPucTRTcXBxfAeXAuczVzLSILl6OcVAReC"}
